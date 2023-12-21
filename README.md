@@ -1,4 +1,4 @@
 # poshithaspdemo
-this is my first depository
+this is my first repository
 <br>
 author-poshithasp
